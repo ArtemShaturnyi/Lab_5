@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<collection>
+    <humanBeing id="1190035432">
+        <car>
+            <name>Car</name>
+        </car>
+        <coordinates>
+            <x>213.0</x>
+            <y>432</y>
+        </coordinates>
+        <creationDate>2023-03-29T08:46:38</creationDate>
+        <hasToothpick>false</hasToothpick>
+        <impactSpeed>431</impactSpeed>
+        <minutesOfWaiting>312</minutesOfWaiting>
+        <name>ann</name>
+        <realHero>true</realHero>
+        <soundtrackName>fdskalj</soundtrackName>
+        <weaponType>RIFLE</weaponType>
+    </humanBeing>
+    <humanBeing id="38997010">
+        <car>
+            <name>Car</name>
+        </car>
+        <coordinates>
+            <x>321.0</x>
+            <y>342</y>
+        </coordinates>
+        <creationDate>2023-03-29T09:03:49</creationDate>
+        <hasToothpick>false</hasToothpick>
+        <impactSpeed>123</impactSpeed>
+        <minutesOfWaiting>142</minutesOfWaiting>
+        <name>jane</name>
+        <realHero>true</realHero>
+        <soundtrackName>342</soundtrackName>
+        <weaponType>RIFLE</weaponType>
+    </humanBeing>
+    <humanBeing id="897697267">
+        <car>
+            <name>unique</name>
+        </car>
+        <coordinates>
+            <x>123.0</x>
+            <y>4321</y>
+        </coordinates>
+        <creationDate>2023-03-29T09:03:02</creationDate>
+        <hasToothpick>false</hasToothpick>
+        <impactSpeed>321</impactSpeed>
+        <minutesOfWaiting>123</minutesOfWaiting>
+        <name>k</name>
+        <realHero>true</realHero>
+        <soundtrackName>soundtrackname</soundtrackName>
+        <weaponType>RIFLE</weaponType>
+    </humanBeing>
+    <humanBeing id="2">
+        <car/>
+        <coordinates>
+            <x>20.0</x>
+            <y>30</y>
+        </coordinates>
+        <creationDate>2022-03-02T10:00:00</creationDate>
+        <hasToothpick>false</hasToothpick>
+        <impactSpeed>40</impactSpeed>
+        <minutesOfWaiting>20</minutesOfWaiting>
+        <name>Jane</name>
+        <realHero>false</realHero>
+        <soundtrackName>My Other Soundtrack</soundtrackName>
+        <weaponType>RIFLE</weaponType>
+    </humanBeing>
+    <humanBeing id="1">
+        <car>
+            <name>name</name>
+        </car>
+        <coordinates>
+            <x>10.0</x>
+            <y>20</y>
+        </coordinates>
+        <creationDate>2022-03-01T10:00:00</creationDate>
+        <hasToothpick>true</hasToothpick>
+        <impactSpeed>50</impactSpeed>
+        <minutesOfWaiting>10</minutesOfWaiting>
+        <name>John</name>
+        <realHero>true</realHero>
+        <soundtrackName>My Soundtrack</soundtrackName>
+        <weaponType>RIFLE</weaponType>
+    </humanBeing>
+    <humanBeing id="1789447862">
+        <car>
+            <name>Car</name>
+        </car>
+        <coordinates>
+            <x>321.0</x>
+            <y>321</y>
+        </coordinates>
+        <creationDate>2023-03-29T09:03:31</creationDate>
+        <hasToothpick>false</hasToothpick>
+        <impactSpeed>321</impactSpeed>
+        <minutesOfWaiting>213</minutesOfWaiting>
+        <name>name</name>
+        <realHero>true</realHero>
+        <soundtrackName>432</soundtrackName>
+        <weaponType>RIFLE</weaponType>
+    </humanBeing>
+</collection>

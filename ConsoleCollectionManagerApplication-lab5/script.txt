@@ -1,0 +1,5 @@
+show
+info
+add
+update 1
+print_ascending
